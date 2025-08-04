@@ -1,0 +1,6 @@
+.starlight .site-title img {
+width: auto !important;
+  max-width: 100px !important; /* Уменьшить как тебе нужно */
+height: auto !important;
+object-fit: contain !important;
+}
