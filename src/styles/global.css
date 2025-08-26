@@ -1,0 +1,192 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    max-width: 900px;
+    margin: 2rem auto;
+  font-size: 0; /* Убираем артефакты пробелов между div */
+}
+
+.gallery__item {
+    aspect-ratio: 1 / 1;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+}
+
+.gallery__item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.timeline {
+    position: relative;
+    background: #ca3b3b;
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 2rem 0;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0; bottom: 0;
+    width: 4px;
+    background: #fff;
+    opacity: 0.4;
+    transform: translateX(-50%);
+}
+
+.timeline__item {
+    position: relative;
+    width: 50%;
+    padding: 2rem 2rem;
+    box-sizing: border-box;
+}
+
+.timeline__item.left {
+    left: 0;
+    text-align: right;
+}
+
+.timeline__item.right {
+    left: 50%;
+    text-align: left;
+}
+
+.timeline__year {
+    display: inline-block;
+    background: #fff;
+    color: #cb2d2d;
+    border-radius: 50%;
+    border: 2px solid #cb2d2d;
+    width: 74px; height: 74px;
+    line-height: 66px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top: 2rem;
+    z-index: 2;
+}
+
+.timeline__item.left .timeline__year {
+  right: -37px; /* половина ширины кружка (чтобы на линии сидел) */
+}
+
+.timeline__item.right .timeline__year {
+    left: -37px;
+}
+
+.timeline__desc {
+  background: rgba(0,0,0,0.28);
+  color: #fff;
+  border-radius: 8px;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  max-width: 320px;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  position: relative;
+  z-index: 1;
+}
+
+.timeline__item.left .timeline__desc {
+  margin-right: 110px; /* отступ от линии */
+}
+
+.timeline__item.right .timeline__desc {
+  margin-left: 110px;
+}
+
+/* Мобильная адаптация */
+@media (max-width: 700px) {
+  .timeline {
+    padding: 0;
+  }
+  .timeline__item,
+  .timeline__item.left,
+  .timeline__item.right {
+    width: 100%;
+    left: 0;
+    text-align: left;
+    padding: 2rem 0 2rem 38px;
+  }
+  .timeline::before {
+    left: 22px;
+  }
+  .timeline__year {
+    left: -37px !important;
+    right: auto !important;
+  }
+  .timeline__desc {
+    margin: 0 0 0 70px !important;
+    max-width: 100%;
+  }
+}
+/* Лайтбокс */
+.lightbox{
+  position:fixed; inset:0; display:none;
+  justify-content:center; align-items:center;
+  background:rgba(0,0,0,.85); z-index:9999;
+}
+.lightbox img{
+  max-width:90%; max-height:90%;
+  border-radius:6px; box-shadow:0 0 20px rgba(0,0,0,.5);
+  cursor:zoom-out;
+}
+/* Лайтбокс + стрелки */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0,0,0,.88);
+  z-index: 9999;
+}
+.lightbox .lb-img {
+  max-width: 92%;
+  max-height: 92%;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0,0,0,.5);
+  cursor: zoom-out;
+}
+.lightbox .lb-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 999px;
+  background: rgba(255,255,255,.15);
+  color: #fff;
+  font-size: 26px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  backdrop-filter: blur(2px);
+  transition: background .2s ease;
+  user-select: none;
+}
+.lightbox .lb-btn:hover { background: rgba(255,255,255,.25); }
+.lightbox .lb-prev { left: 18px; }
+.lightbox .lb-next { right: 18px; }
+.lightbox .lb-counter {
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #ddd;
+  font-size: 14px;
+  background: rgba(0,0,0,.35);
+  padding: 4px 10px;
+  border-radius: 999px;
+  user-select: none;
+}

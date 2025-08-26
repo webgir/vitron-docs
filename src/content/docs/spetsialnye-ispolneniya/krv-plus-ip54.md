@@ -1,5 +1,5 @@
 ---
-title: KRV Plus IP54
+title: Специальные исполнения
 description: Модель в исполнении IP54.
 ---
 

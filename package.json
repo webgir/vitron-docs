@@ -12,6 +12,11 @@
   "dependencies": {
     "@astrojs/starlight": "^0.35.2",
     "astro": "^5.6.1",
+    "glightbox": "^3.3.1",
+    "remark-figure-caption": "^1.0.6",
     "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "rehype-external-links": "^3.0.0"
   }
 }
