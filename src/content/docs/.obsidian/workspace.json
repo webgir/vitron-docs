@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3227c5a29c782cd6",
+        "id": "ca80f437c4902bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "493a501131f7ed00",
+            "id": "a2fa22fe255a3df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "bd7d1c7b0b464fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "katalog/vkn/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,48 +181,52 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "493a501131f7ed00",
+  "active": "bd7d1c7b0b464fb5",
   "lastOpenFiles": [
-    "komplektuyushchie/aksessuary.md",
     "katalog/vk/index.md",
-    "spetsialnye-ispolneniya/krv-plus-ip54.md",
-    "spetsialnye-ispolneniya/index.md",
-    "Высота 55 мм^.md",
+    "katalog/vkn/index.md",
+    "katalog/vk/tablicy.md",
+    "katalog/vk-eko/index.md",
+    "katalog/vk-eko/tablicy.md",
+    "katalog/vk-eko",
+    "katalog/vkv24/index.md",
+    "spetsialnye-ispolneniya/spec.md",
+    "katalog/vkvp/index.md",
+    "katalog/vkvp",
+    "katalog/vks/index.md",
+    "katalog/vks",
+    "katalog/vkvn/index.md",
+    "katalog/vkvn",
+    "katalog/vkvm/index.md",
+    "katalog/vkvm",
+    "katalog/vks-vert/index.md",
+    "katalog/vks-vert",
+    "katalog/vkves/index.md",
+    "katalog/vkves",
+    "katalog/vkv-vke/index.md",
+    "katalog/vkv-vke",
+    "katalog/vkn-eco/index.md",
+    "katalog/vkn-eco",
+    "katalog/vks-eco/index.md",
+    "katalog/vks-eco",
+    "katalog/vken/index.md",
+    "katalog/vke/index.md",
+    "katalog/vksk/index.md",
+    "katalog/regulirovanie/index.md",
+    "katalog/vkve/index.md",
+    "katalog/vkve.md",
+    "katalog/regulirovanie.md",
+    "katalog/vken.md",
+    "katalog/vks-eco.md",
+    "katalog/vkv-vke.md",
     "missiya-vitron 1.webp",
-    "o-kompanii.md",
     "placeholder.webp",
-    "pochemu-my.md",
     "placeholder 1.webp",
     "sh-vk-55-160.png",
-    "katalog/vkn/index.md",
     "sh-vk-55-160 3.png",
     "sh-vk-55-160 2.png",
     "sh-vk-55-160 1.png",
-    "instrukcii/montazh.md",
-    "katalog/info-vnutripolnye/index.md",
-    "katalog/info-vnutripolnye/montaj.md",
-    "istoriya-kompanii.md",
-    "katalog/krv-mini/index.md",
-    "katalog/info-vnutripolnye/vnutripolnye-info.md",
-    "katalog/info-vnutripolnye",
     "kompany.webp",
-    "missiya-kompanii.md",
-    "missiya-vitron.webp",
-    "katalog/vkn",
-    "missiya.md",
-    "katalog/vkv24/index.md",
-    "katalog/vkv24",
-    "katalog/vk",
-    "sertifikaty/deklaratsii.md",
-    "sertifikaty",
-    "instrukcii",
-    "komplektuyushchie",
-    "spetsialnye-ispolneniya",
-    "katalog/krv-plintus/index.md",
-    "katalog/krv/index.md",
-    "katalog/krv-plintus",
-    "katalog/krv-mini",
-    "o-kompanii/istoriya.md",
-    "o-kompanii/vvedenie.md"
+    "missiya-vitron.webp"
   ]
 }

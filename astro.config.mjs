@@ -33,15 +33,29 @@ export default defineConfig({
           label: 'Каталог продукции',
           items: [
             { label: 'Конвекторы ВК', slug: 'katalog/vk' },
+            { label: 'Конвекторы ВК ЭКО', slug: 'katalog/vk-eko' },
             { label: 'Конвекторы ВКВ 24', slug: 'katalog/vkv24' },
             { label: 'Напольные конвекторы ВКН', slug: 'katalog/vkn' },
-            { label: 'KRV Mini', slug: 'katalog/krv-mini' },
+            { label: "Конвекторы напольные с принудительной конвекцией 24В (ВКВН)", slug: "katalog/vkvn" },
+            { label: "Конвекторы напольные линейки ЭКО (ВКН ЭКО)", slug: "katalog/vkn-eco" },
+            { label: "Конвекторы напольные электрические (ВКЭН)", slug: "katalog/vken" },
+            { label: "Конвекторы электрические, встраиваемые в пол, с естественной конвекцией (ВКЭ)", slug: "katalog/vke" },
+            { label: "Конвекторы электрические, встраиваемые в пол, с принудительной конвекцией (ВКВЭ)", slug: "katalog/vkve" },
+            { label: "Конвекторы, встраиваемые в пол, с принудительной конвекцией и электрическим ТЭНом (ВКВ+ВКЭ)", slug: "katalog/vkv-vke" },
+            { label: "Конвекторы настенные горизонтальные (ВКС)", slug: "katalog/vks" },
+            { label: "Конвекторы настенные горизонтальные линейки ЭКО (ВКС ЭКО)", slug: "katalog/vks-eco" },
+            { label: "Конвекторы настенные вертикальные (ВКС)", slug: "katalog/vks-vert" },
+            { label: "Конвекторы настенные электрические (ВКВЭС)", slug: "katalog/vkves" },
+            { label: "Конвектор скамья отопительная (ВКСК)", slug: "katalog/vksk" },
+            { label: "Конвекторы, встраиваемые в подоконник (ВКВП)", slug: "katalog/vkvp" },
+            { label: "Конвекторы, встраиваемые в мебель (ВКВМ, ВКВЭМ)", slug: "katalog/vkvm" },
+            { label: "Регулирование тепловой мощности конвекторов", slug: "katalog/regulirovanie" }
           ],
         },
         {
           label: 'Специальные исполнения',
           items: [
-            { label: 'KRV Plus IP54', slug: 'spetsialnye-ispolneniya/krv-plus-ip54' },
+            { label: 'Специальные исполнения', slug: 'spetsialnye-ispolneniya/spec' },
           ],
         },
         {

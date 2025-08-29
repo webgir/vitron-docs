@@ -190,3 +190,53 @@
   border-radius: 999px;
   user-select: none;
 }
+/* Общий вид таблиц в контенте */
+.markdown table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.markdown th,
+.markdown td {
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(127,127,127,.25);
+  vertical-align: top;
+}
+
+/* Шапка таблицы */
+.markdown thead th {
+  font-weight: 600;
+}
+
+/* Зебра для строк (tbody) */
+.markdown tbody tr:nth-child(even) {
+  background: rgba(0,0,0,.03);
+}
+
+/* Светлая/тёмная тема — лёгкая корректировка контраста */
+:root[data-theme="light"] .markdown tbody tr:nth-child(even) { background: rgba(0,0,0,.035); }
+:root[data-theme="dark"]  .markdown tbody tr:nth-child(even) { background: rgba(255,255,255,.03); }
+:root[data-theme="dark"]  .markdown th,
+:root[data-theme="dark"]  .markdown td { border-bottom-color: rgba(255,255,255,.12); }
+
+/* Акценты: всё, что в **жирном**, подсветить «как ссылки» */
+.markdown td strong {
+  color: var(--sl-color-text-link);
+  font-weight: 700;
+}
+main table {
+  border-collapse: collapse;
+  width: 100%;
+}
+main th,
+main td {
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(127,127,127,.25);
+  vertical-align: top;
+}
+main thead th {
+  background-color: rgba(127,127,127,.1);
+  font-weight: 600;
+}
+main tbody tr:nth-child(even) {
+  background-color: rgba(127,127,127,.07);
+}
