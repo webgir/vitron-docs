@@ -66,3 +66,1078 @@ description: Конвекторы напольные без вентилятор
 
 ---
 
+## Список моделей конвекторов ВКН без вентилятора
+
+<br>
+
+---
+
+
+## ℹ️ Высота 100 мм
+
+Конвекторы напольные с естественной конвекцией.
+Высота 100 мм.
+
+---
+
+<a id="vkn-100-150-2tg"></a>
+### ВКН.100.150.2ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img
+    src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp"
+    alt="ВКН.100.150.2ТГ — боковое подключение"
+    loading="eager" decoding="async"
+  />
+</details>
+
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img
+    src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp"
+    alt="ВКН.100.150.2ТГ — нижнее подключение"
+    loading="lazy" decoding="async"
+  />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Высота                       | 100 мм                                                                                                             |
+| Ширина                       | 150 мм                                                                                                             |
+| Тепловая мощность (95/85/20) | **328–1638 Вт**                                                                                                    |
+| Длина                        | 600–3000 мм (шаг 100 мм)                                                                                           |
+| Страница модели              | [ВКН.100.150.2ТГ](https://vitron.ru/konvektory-vkn-100-mm/napolnye-konvektory-otopleniya-vodyanye-vkn-100-150-2tg) |
+| Прайс                        | [Скачать PDF]([https://docs.vitron.ru/vitron-vkn-100-150](https://docs.vitron.ru/vitron-vkn-100-150))              |
+
+<a href="./tablicy#vkn-100-150-2tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+---
+
+<a id="vkn-100-200-2tg"></a>
+### ВКН.100.200.2ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-200/vkn-100-200-2tg-pp.webp" alt="ВКН.100.200.2ТГ — боковое подключение" />
+</details>
+
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-200/vkn-100-200-2tg-np.webp" alt="ВКН.100.200.2ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                              |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Высота                       | 100 мм                                                                                                |
+| Ширина                       | 200 мм                                                                                                |
+| Тепловая мощность (95/85/20) | **360–1802 Вт**                                                                                       |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                          |
+| Страница модели              | [ВКН.100.200.2ТГ](https://vitron.ru/konvektory-vkn-100-mm/radiator-napolnyj-vodyanoj-vkn-100-200-2tg) |
+| Прайс                        | [Скачать PDF]([https://docs.vitron.ru/vitron-vkn-100-200](https://docs.vitron.ru/vitron-vkn-100-200)) |
+
+<a href="./tablicy#vkn-100-200-2tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-100-250-4tg"></a>
+### ВКН.100.250.4ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-250/vkn-100-250-4tg-bp.webp" alt="ВКН.100.250.4ТГ — боковое подключение" />
+</details>
+
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-250/vkn-100-250-4tg-np.webp" alt="ВКН.100.250.4ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 100 мм                                                                                                            |
+| Ширина                       | 250 мм                                                                                                            |
+| Тепловая мощность (95/85/20) | **619–3095 Вт**                                                                                                   |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                      |
+| Страница модели              | [ВКН.100.250.4ТГ](https://vitron.ru/konvektory-vkn-100-mm/napolnye-radiatory-otopleniya-vodyanye-vkn-100-250-4tg) |
+| Прайс                        | [Скачать PDF]([https://docs.vitron.ru/vitron-vkn-100-250](https://docs.vitron.ru/vitron-vkn-100-250))             |
+
+<a href="./tablicy#vkn-100-250-4tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+## ℹ️ Высота 150 мм
+
+Конвекторы напольные с естественной конвекцией.
+Высота 150 мм.
+
+---
+
+<a id="vkn-150-100-2tv"></a>
+### ВКН.150.100.2ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.100.2ТГ — боковое подключение" />
+</details>
+
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.100.2ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Высота                       | 150 мм                                                                                                 |
+| Ширина                       | 100 мм                                                                                                 |
+| Тепловая мощность (95/85/20) | **351 - 1755** Вт.                                                                                     |
+| Длина                        | 600–3000 мм (шаг 100 мм)                                                                               |
+| Страница модели              | [ВКН.150.100.2ТГ](https://vitron.ru/konvektory-vkn-150-mm/konvektor-napolnyj-vodyanoj-vkn-150-100-2tg) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-100)                                               |
+
+<a href="./tablicy#vkn-150-100-2tv" class="btn">Смотреть таблицу теплоотдачи</a>
+
+
+<br>
+
+<a id="vkn-150-150-2tg"></a>
+### ВКН.150.150.2ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.150.2ТГ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.150.2ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Высота                       | 150 мм                                                                                                 |
+| Ширина                       | 150 мм                                                                                                 |
+| Тепловая мощность (95/85/20) | **369–1843 Вт**                                                                                        |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                           |
+| Страница модели              | [ВКН.150.150.2ТГ](https://vitron.ru/konvektory-vkn-150-mm/napolnyj-vodyanoj-konvektor-vkn-150-150-2tg) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-150-2)                                             |
+
+<a href="./tablicy#vkn-150-150-2tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+
+<a id="vkn-150-150-4tk"></a>
+### ВКН.150.150.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.150.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.150.4ТК — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Высота                       | 150 мм                                                                                                 |
+| Ширина                       | 150 мм                                                                                                 |
+| Тепловая мощность (95/85/20) | **516–2580 Вт**                                                                                        |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                           |
+| Страница модели              | [ВКН.150.150.4ТК](https://vitron.ru/konvektory-vkn-150-mm/vodyanoj-napolnyj-konvektor-vkn-150-150-4tk) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-150-4)                                             |
+
+<a href="./tablicy#vkn-150-150-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-150-200-2tg"></a>
+### ВКН.150.200.2ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.200.2ТГ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.200.2ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 150 мм                                                                                                            |
+| Ширина                       | 200 мм                                                                                                            |
+| Тепловая мощность (95/85/20) | **403–2016 Вт**                                                                                                   |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                      |
+| Страница модели              | [ВКН.150.200.2ТГ](https://vitron.ru/konvektory-vkn-150-mm/vodyanoj-napolnyj-konvektor-otopleniya-vkn-150-200-2tg) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/virton-vkn-150-200-2)                                                        |
+
+<a href="./tablicy#vkn-150-200-2tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-150-200-4tk"></a>
+### ВКН.150.200.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.200.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.200.4ТК — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 150 мм                                                                                                            |
+| Ширина                       | 200 мм                                                                                                            |
+| Тепловая мощность (95/85/20) | **637–3185 Вт**                                                                                                   |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                      |
+| Страница модели              | [ВКН.150.200.4ТК](https://vitron.ru/konvektory-vkn-150-mm/napolnyj-vodyanoj-konvektor-otopleniya-vkn-150-200-4tk) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-200-4)                                                        |
+
+<a href="./tablicy#vkn-150-200-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+
+<br>
+
+
+<a id="vkn-150-200-6tp"></a>
+### ВКН.150.200.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.200.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.200.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                         |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 150 мм                                                                                                           |
+| Ширина                       | 200 мм                                                                                                           |
+| Тепловая мощность (95/85/20) | **849–4247 Вт**                                                                                                  |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                     |
+| Страница модели              | [ВКН.150.200.6ТП](https://vitron.ru/конvektory-vkn-150-mm/napolnyj-vodyanoj-radiator-otopleniya-vkn-150-200-6tp) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-200-6)                                                       |
+
+<a href="./tablicy#vkn-150-200-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-150-250-4tg"></a>
+### ВКН.150.250.4ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.250.4ТГ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.250.4ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                         |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 150 мм                                                                                                           |
+| Ширина                       | 250 мм                                                                                                           |
+| Тепловая мощность (95/85/20) | **774–3868 Вт**                                                                                                  |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                     |
+| Страница модели              | [ВКН.150.250.4ТГ](https://vitron.ru/konvektory-vkn-150-mm/vodyanoj-napolnyj-radiator-otopleniya-vkn-150-250-4tg) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-250-4)                                                       |
+
+<a href="./tablicy#vkn-150-250-4tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-150-250-6tp"></a>
+### ВКН.150.250.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.250.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.250.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 150 мм                                                                                                            |
+| Ширина                       | 250 мм                                                                                                            |
+| Тепловая мощность (95/85/20) | **928–4642 Вт**                                                                                                   |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                      |
+| Страница модели              | [ВКН.150.250.6ТП](https://vitron.ru/konvektory-vkn-150-mm/konvektor-otopleniya-vodyanoj-napolnyj-vkn-150-250-6tp) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-250-6)                                                        |
+
+<a href="./tablicy#vkn-150-250-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-150-250-8tp"></a>
+### ВКН.150.250.8ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.150.250.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.150.250.6ТП — нижнее подключение" />
+</details>
+
+
+<br>
+
+| Параметр                     | Значение                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 150 мм                                                                                                            |
+| Ширина                       | 250 мм                                                                                                            |
+| Тепловая мощность (95/85/20) | **1160–5802 Вт**                                                                                                  |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                      |
+| Страница модели              | [ВКН.150.250.8ТП](https://vitron.ru/konvektory-vkn-150-mm/konvektor-otopleniya-napolnyj-vodyanoj-vkn-150-250-8tp) |
+| Прайс                        | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-150-250-8)                                                        |
+
+<a href="./tablicy#vkn-150-250-8tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+## ℹ️ Высота 200 мм
+
+Конвекторы напольные с естественной конвекцией.
+Высота 200 мм.
+
+---
+
+<a id="vkn-200-100-2tv"></a>
+### ВКН.200.100.2ТВ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.100.2ТВ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.100.2ТВ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Высота                       | 200 мм                                                                                                 |
+| Ширина                       | 100 мм                                                                                                 |
+| Тепловая мощность (95/85/20) | **390–1950 Вт**                                                                                        |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                           |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-100)                                                            |
+| Страница модели              | [ВКН.200.100.2TB](https://vitron.ru/konvektory-vkn-200-mm/konvektor-vodyanoj-napolnyj-vkn-200-100-2tv) |
+
+<a href="./tablicy#vkn-200-100-2tv" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-200-150-2tg"></a>
+### ВКН.200.150.2ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.150.2ТГ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.150.2ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Высота                       | 200 мм                                                                                                 |
+| Ширина                       | 150 мм                                                                                                 |
+| Тепловая мощность (95/85/20) | **426–2129 Вт**                                                                                        |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                           |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-150-2)                                                          |
+| Страница модели              | [ВКН.200.150.2ТГ](https://vitron.ru/konvektory-vkn-200-mm/vodyanoj-napolnyj-konvektor-vkn-200-150-2tg) |
+
+<a href="./tablicy#vkn-200-150-2tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-200-150-4tk"></a>
+### ВКН.200.150.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.150.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.150.4ТК — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                      |
+| ---------------------------- | --------------------------------------------------------------------------------------------- |
+| Высота                       | 200 мм                                                                                        |
+| Ширина                       | 150 мм                                                                                        |
+| Тепловая мощность (95/85/20) | **709–3547 Вт**                                                                               |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                  |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-150-4)                                                 |
+| Страница модели              | [ВКН.200.150.4ТК](https://vitron.ru/konvektory-vkn-200-mm/napolnaya-batareya-vkn-200-150-4tk) |
+
+<a href="./tablicy#vkn-200-150-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-200-200-4tk"></a>
+### ВКН.200.200.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.200.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.200.4ТК — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Высота                       | 200 мм                                                                                                   |
+| Ширина                       | 200 мм                                                                                                   |
+| Тепловая мощность (95/85/20) | **779–3893 Вт**                                                                                          |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                             |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-200-4)                                                            |
+| Страница модели              | [ВКН.200.200.4ТК](https://vitron.ru/konvektory-vkn-200-mm/napolnaya-batareya-otopleniya-vkn-200-200-4tk) |
+
+<a href="./tablicy#vkn-200-200-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-200-200-6tp"></a>
+### ВКН.200.200.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.200.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.200.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Высота                       | 200 мм                                                                                                   |
+| Ширина                       | 200 мм                                                                                                   |
+| Тепловая мощность (95/85/20) | **1038–5191 Вт**                                                                                         |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                             |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-200-6)                                                            |
+| Страница модели              | [ВКН.200.200.6ТП](https://vitron.ru/konvektory-vkn-200-mm/batareya-otopleniya-napolnaya-vkn-200-200-6tp) |
+
+<a href="./tablicy#vkn-200-200-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+
+<a id="vkn-200-250-4tg"></a>
+### ВКН.200.250.4ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.250.4ТГ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.250.4ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Высота                       | 200 мм                                                                                                             |
+| Ширина                       | 250 мм                                                                                                             |
+| Тепловая мощность (95/85/20) | **928–4642 Вт**                                                                                                    |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                       |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-250-4)                                                                      |
+| Страница модели              | [ВКН.200.250.4ТГ](https://vitron.ru/konvektory-vkn-200-mm/napolnaya-batareya-otopleniya-vodyanaya-vkn-200-250-4tg) |
+
+<a href="./tablicy#vkn-200-250-4tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+
+<a id="vkn-200-250-6tp"></a>
+### ВКН.200.250.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.250.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.250.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                              |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Высота                       | 200 мм                                                                                                |
+| Ширина                       | 250 мм                                                                                                |
+| Тепловая мощность (95/85/20) | **1238–6189 Вт**                                                                                      |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                          |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-250-6)                                                         |
+| Страница модели              | [ВКН.200.250.6ТП](https://vitron.ru/konvektory-vkn-200-mm/napolnyj-radiator-vodyanoj-vkn-200-250-6tp) |
+
+<a href="./tablicy#vkn-200-250-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-200-250-8tp"></a>
+### ВКН.200.250.8ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.200.250.8ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.200.250.8ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр                     | Значение                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Высота                       | 200 мм                                                                                                            |
+| Ширина                       | 250 мм                                                                                                            |
+| Тепловая мощность (95/85/20) | **1418–7092 Вт**                                                                                                  |
+| Длина                        | **600–3000 мм (шаг 100 мм)**                                                                                      |
+| Документация                 | [Прайс](https://docs.vitron.ru/vkn-200-250-8)                                                                     |
+| Страница модели              | [ВКН.200.250.8ТП](https://vitron.ru/konvektory-vkn-200-mm/napolnyj-radiator-vodyanogo-otopleniya-vkn-200-250-8tp) |
+
+<a href="./tablicy#vkn-200-250-8tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+
+<br>
+
+## ℹ️ Высота 250 мм
+
+Конвекторы напольные с естественной конвекцией.
+Высота 250 мм.
+
+---
+
+<a id="vkn-250-100-2tv"></a>
+### ВКН.250.100.2ТВ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.100.2ТВ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.100.2ТВ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 100 мм |
+| Тепловая мощность (95/85/20) | **406–2028 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-100) |
+| Страница модели | [ВКН.250.100.2ТВ](https://vitron.ru/vkn-250-mm/vodyanoj-napolnyj-konvektor-vkn-250-100-2tv) |
+
+<a href="./tablicy#vkn-250-100-2tv" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-250-100-4tv"></a>
+### ВКН.250.100.4ТВ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.100.4ТВ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.100.4ТВ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 100 мм |
+| Тепловая мощность (95/85/20) | **794–3970 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-100-4) |
+| Страница модели | [ВКН.250.100.4ТВ](https://vitron.ru/vkn-250-mm/vodyanye-napolnye-konvektory-vkn-250-100-4tv) |
+
+<a href="./tablicy#vkn-250-100-4tv" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+
+<a id="vkn-250-150-4tk"></a>
+### ВКН.250.150.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.150.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.150.4ТК — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 150 мм |
+| Тепловая мощность (95/85/20) | **903–4515 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-150-4) |
+| Страница модели | [ВКН.250.150.4ТК](https://vitron.ru/vkn-250-mm/vodyanye-napolnye-radiatory-vkn-250-150-4tk) |
+
+<a href="./tablicy#vkn-250-150-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-250-150-6tp"></a>
+### ВКН.250.150.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.150.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.150.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 150 мм |
+| Тепловая мощность (95/85/20) | **1204–6020 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-150-6) |
+| Страница модели | [ВКН.250.150.6ТП](https://vitron.ru/vkn-250-mm/vodyanye-napolnye-batarei-vkn-250-150-6tp) |
+
+<a href="./tablicy#vkn-250-150-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-250-200-4tk"></a>
+### ВКН.250.200.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.200.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.200.4ТК — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 200 мм |
+| Тепловая мощность (95/85/20) | **920–4601 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-200-4) |
+| Страница модели | [ВКН.250.200.4ТК](https://vitron.ru/vkn-250-mm/napolnye-batarei-vodyanogo-otopleniya-vkn-250-200-4tk) |
+
+<a href="./tablicy#vkn-250-200-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+<a id="vkn-250-200-6tp"></a>
+
+### ВКН.250.200.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.200.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.200.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 200 мм |
+| Тепловая мощность (95/85/20) | **1227–6135 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-200-6) |
+| Страница модели | [ВКН.250.200.6ТП](https://vitron.ru/vkn-250-mm/napolnye-radiatory-vodyanogo-otopleniya-vkn-250-200-6tp) |
+
+<a href="./tablicy#vkn-250-200-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-250-250-4tg"></a>
+### ВКН.250.250.4ТГ
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.250.4ТГ — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.250.4ТГ — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 250 мм |
+| Тепловая мощность (95/85/20) | **1083–5416 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-250-4) |
+| Страница модели | [ВКН.250.250.4ТГ](https://vitron.ru/vkn-250-mm/napolnye-konvektory-vodyanogo-otopleniya-vkn-250-250-4tg) |
+
+<a href="./tablicy#vkn-250-250-4tg" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+
+<a id="vkn-250-250-6tp"></a>
+
+### ВКН.250.250.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.250.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.250.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 250 мм |
+| Тепловая мощность (95/85/20) | **1444–7221 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-250-6) |
+| Страница модели | [ВКН.250.250.6ТП](https://vitron.ru/vkn-250-mm/napolnye-otopitelnye-batarei-vkn-250-250-6tp) |
+
+<a href="./tablicy#vkn-250-250-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-250-250-8tp"></a>
+### ВКН.250.250.8ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.250.250.8ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.250.250.8ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 250 мм |
+| Ширина | 250 мм |
+| Тепловая мощность (95/85/20) | **1676–8381 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-250-250-8) |
+| Страница модели | [ВКН.250.250.8ТП](https://vitron.ru/vkn-250-mm/napolnye-otopitelnye-radiatory-vkn-250-250-8tp) |
+
+<a href="./tablicy#vkn-250-250-8tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+
+<br>
+
+
+## ℹ️ Высота 300 мм
+
+Конвекторы напольные с естественной конвекцией.
+Высота 300 мм.
+
+---
+
+<a id="vkn-300-150-4tk"></a>
+### ВКН.300.150.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.300.150.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.300.150.4ТК — нижнее подключение" />
+</details>
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 300 мм |
+| Ширина | 150 мм |
+| Тепловая мощность (95/85/20) | **903–4515 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-300-150-4) |
+| Страница модели | [ВКН.300.150.4ТК](https://vitron.ru/vkn-300-mm/vodyanye-napolnye-konvektory-vkn-300-150-4tk) |
+
+<a href="./tablicy#vkn-300-150-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-300-150-6tp"></a>
+### ВКН.300.150.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.300.150.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.300.150.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 300 мм |
+| Ширина | 150 мм |
+| Тепловая мощность (95/85/20) | **1238–6192 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-300-150-6) |
+| Страница модели | [ВКН.300.150.6ТП](https://vitron.ru/vkn-300-mm/napolnye-konvektory-otopleniya-vodyanye-vkn-300-150-6tp) |
+
+<a href="./tablicy#vkn-300-150-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-300-200-4tk"></a>
+### ВКН.300.200.4ТК
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.300.200.4ТК — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.300.200.4ТК — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 300 мм |
+| Ширина | 200 мм |
+| Тепловая мощность (95/85/20) | **991–4955 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-300-200-4) |
+| Страница модели | [ВКН.300.200.4ТК](https://vitron.ru/vkn-300-mm/konvektory-napolnye-vodyanye-vkn-300-200-4tk) |
+
+<a href="./tablicy#vkn-300-200-4tk" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-300-200-6tp"></a>
+### ВКН.300.200.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.300.200.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.300.200.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 300 мм |
+| Ширина | 200 мм |
+| Тепловая мощность (95/85/20) | **1321–6606 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-300-200-6) |
+| Страница модели | [ВКН.300.200.6ТП](https://vitron.ru/vkn-300-mm/napolnye-konvektory-vodyanye-vkn-300-200-6tp) |
+
+<a href="./tablicy#vkn-300-200-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-300-250-6tp"></a>
+### ВКН.300.250.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.300.250.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.300.250.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 300 мм |
+| Ширина | 250 мм |
+| Тепловая мощность (95/85/20) | **1537–7737 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-300-250-6) |
+| Страница модели | [ВКН.300.250.6ТП](https://vitron.ru/vkn-300-mm/konvektory-vodyanye-napolnogo-montazha-vkn-300-250-6tp) |
+
+<a href="./tablicy#vkn-300-250-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-300-250-8tp"></a>
+### ВКН.300.250.8ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.300.250.8ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.300.250.8ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 300 мм |
+| Ширина | 250 мм |
+| Тепловая мощность (95/85/20) | **1537–7737 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vitron-vkn-300-250-8) |
+| Страница модели | [ВКН.300.250.8ТП](https://vitron.ru/vkn-300-mm/konvektory-napolnogo-montazha-vkn-300-250-8tp) |
+
+<a href="./tablicy#vkn-300-250-8tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+
+
+## ℹ️ Высота 400 мм
+
+Конвекторы напольные с естественной конвекцией.
+Высота 400 мм.
+
+---
+
+<a id="vkn-400-250-6tp"></a>
+### ВКН.400.250.6ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.400.250.6ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.400.250.6ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 400 мм |
+| Ширина | 250 мм |
+| Тепловая мощность (95/85/20) | **1857–9284 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vkn-400-250-6) |
+| Страница модели | [ВКН.400.250.6ТП](https://vitron.ru/vkn-400-mm/konvektory-vodyanye-napolnye-vkn-400-250-6tp) |
+
+<a href="./tablicy#vkn-400-250-6tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+
+<a id="vkn-400-250-8tp"></a>
+### ВКН.400.250.8ТП
+
+<details class="spoiler" open>
+  <summary>Боковое подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-pp.webp" alt="ВКН.400.250.8ТП — боковое подключение" />
+</details>
+<details class="spoiler">
+  <summary>Нижнее подключение</summary>
+  <img src="https://docs.wilma.ru/images/vkn/100/100-150/vkn-100-150-2tg-np.webp" alt="ВКН.400.250.8ТП — нижнее подключение" />
+</details>
+
+<br>
+
+| Параметр | Значение |
+| --- | --- |
+| Высота | 400 мм |
+| Ширина | 250 мм |
+| Тепловая мощность (95/85/20) | **2579–12894 Вт** |
+| Длина | **600–3000 мм (шаг 100 мм)** |
+| Прайс | [Скачать PDF](https://docs.vitron.ru/vkn-400-250-8) |
+| Страница модели | [ВКН.400.250.8ТП](https://vitron.ru/vkn-400-mm/konvektory-vodyanye-napolnye-vkn-400-250-6tp) |
+
+<a href="./tablicy#vkn-400-250-8tp" class="btn">Смотреть таблицу теплоотдачи</a>
+
+<br>
+<br>
+<br>

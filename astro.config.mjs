@@ -36,7 +36,7 @@ export default defineConfig({
             { label: 'Конвекторы ВК ЭКО', slug: 'katalog/vk-eko' },
             { label: 'Конвекторы ВКВ 24', slug: 'katalog/vkv24' },
             { label: 'Напольные конвекторы ВКН', slug: 'katalog/vkn' },
-            { label: "Конвекторы напольные с принудительной конвекцией 24В (ВКВН)", slug: "katalog/vkvn" },
+            { label: "Конвекторы напольные ВКВН 24", slug: "katalog/vkvn" },
             { label: "Конвекторы напольные линейки ЭКО (ВКН ЭКО)", slug: "katalog/vkn-eco" },
             { label: "Конвекторы напольные электрические (ВКЭН)", slug: "katalog/vken" },
             { label: "Конвекторы электрические, встраиваемые в пол, с естественной конвекцией (ВКЭ)", slug: "katalog/vke" },

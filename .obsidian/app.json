@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "dist/",
+    "node_modules/",
+    "Projects.code-workspace/",
+    "dist/",
+    "node_modules/, .git/, dist/, .astro/"
+  ]
+}
