@@ -100,7 +100,8 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv24-65-300-2tg-24v" class="btn">← Назад к описанию модели</a>
+
+<a href="/katalog/vkv24/#vkv24-65-300-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -153,7 +154,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv24-70-260-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv24-70-260-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -203,7 +204,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-70-300-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-70-300-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -256,7 +257,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-75-260-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-75-260-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -306,7 +307,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-75-300-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-75-300-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -356,7 +357,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-75-360-4tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-75-360-4tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -406,7 +407,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-75-400-4tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-75-400-4tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -459,7 +460,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-80-260-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-80-260-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -509,7 +510,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-80-300-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-80-300-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -559,7 +560,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-80-360-4tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-80-360-4tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -609,7 +610,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-80-400-4tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-80-400-4tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -662,7 +663,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-90-200-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-90-200-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -712,7 +713,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-90-260-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-90-260-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -762,7 +763,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-90-300-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-90-300-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -812,7 +813,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-90-360-4tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-90-360-4tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -862,7 +863,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-90-400-4tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-90-400-4tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -916,7 +917,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-110-200-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-110-200-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -966,7 +967,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-110-260-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-110-260-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1016,7 +1017,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-110-300-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-110-300-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1067,7 +1068,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-110-360-4tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-110-360-4tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1121,7 +1122,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-140-160-2tv-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-140-160-2tv-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1171,7 +1172,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-140-200-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-140-200-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1221,7 +1222,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-140-260-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-140-260-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1271,7 +1272,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-140-300-4tk-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-140-300-4tk-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1321,7 +1322,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-140-360-8tp-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-140-360-8tp-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1377,7 +1378,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-150-160-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-150-160-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1427,7 +1428,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-150-200-2tg-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-150-200-2tg-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1477,7 +1478,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-150-260-4tk-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-150-260-4tk-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1527,7 +1528,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-150-300-4tk-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-150-300-4tk-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 
@@ -1577,7 +1578,7 @@ description: Таблицы тепловых мощностей конвекто
 
 </details>
 
-<a href="./#vkv-150-360-8tp-24v" class="btn">← Назад к описанию модели</a>
+<a href="/katalog/vkv24/#vkv-150-360-8tp-24v" class="btn">← Назад к описанию модели</a>
 
 ---
 

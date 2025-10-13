@@ -1,0 +1,14 @@
+{
+  "userIgnoreFilters": [
+    "dist/",
+    "node_modules/",
+    "Projects.code-workspace/",
+    "dist/",
+    "node_modules/, .git/, dist/, .astro/"
+  ],
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "foldIndent": false,
+  "foldHeading": false,
+  "alwaysUpdateLinks": true
+}

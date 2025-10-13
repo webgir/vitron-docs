@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "b46324f4a7f7a091",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f42cf4c3b31640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a38bf1a7ada68dd0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d929f7bca816604",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e4ea146fdcce946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf6cf98bf7f28fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d860e909dceaca7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "3fdd05245a0086d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed771c6c7d80926b",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f3060bfbf200d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f85efe8a23ff72d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "37a3c853ea157394",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "1722a111053784bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d8d32ef7d422a135",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d860e909dceaca7c",
+  "lastOpenFiles": [
+    "partials/home.md",
+    "index.md",
+    "Без названия",
+    "partials",
+    "index.md.md",
+    "katalog/vk/index.md",
+    "reference/example.md",
+    "Без названия 1.md",
+    "instrukcii/montazh.md",
+    "guides/example.md",
+    "istoriya-kompanii.md",
+    "missiya-kompanii.md",
+    "o-kompanii.md",
+    "pochemu-my.md",
+    "placeholder.webp",
+    "Pasted image 20250908163633.png",
+    "missiya-vitron 1.webp",
+    "missiya-vitron.webp",
+    "kompany.webp",
+    "katalog/vkv24/index.md",
+    "katalog/vk-eko/index.md",
+    "katalog/vk/tablicy.md",
+    "katalog/vk-eko/tablicy.md",
+    "katalog/vkn/index.md",
+    "katalog/vkv24/tablicy.md",
+    "katalog/vkn/tablicy.md",
+    "katalog/vkv24/tablicy",
+    "katalog/vk-eko",
+    "spetsialnye-ispolneniya/spec.md",
+    "katalog/vkvp/index.md",
+    "katalog/vkvp",
+    "katalog/vks/index.md",
+    "katalog/vks",
+    "katalog/vkvn/index.md",
+    "katalog/vkvn",
+    "katalog/vkvm/index.md",
+    "katalog/vkvm",
+    "katalog/vks-vert/index.md",
+    "katalog/vks-vert",
+    "katalog/vkves/index.md",
+    "katalog/vkves",
+    "placeholder 1.webp",
+    "sh-vk-55-160.png",
+    "sh-vk-55-160 3.png",
+    "sh-vk-55-160 2.png",
+    "sh-vk-55-160 1.png"
+  ]
+}
