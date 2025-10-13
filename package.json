@@ -13,7 +13,9 @@
     "@astrojs/starlight": "^0.35.2",
     "astro": "^5.6.1",
     "glightbox": "^3.3.1",
+    "rehype-katex": "^7.0.0",
     "remark-figure-caption": "^1.0.6",
+    "remark-math": "^6.0.0",
     "sharp": "^0.34.2"
   },
   "devDependencies": {

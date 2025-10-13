@@ -2,6 +2,8 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import rehypeExternalLinks from 'rehype-external-links';
+import rehypeKatex from 'rehype-katex';
+import remarkMath from 'remark-math';
 
 // Логотипы
 import logoLight from './src/assets/logo.svg?url';
@@ -9,7 +11,9 @@ import logoDark from './src/assets/logo-dark.svg?url';
 
 export default defineConfig({
   markdown: {
+    remarkPlugins: [remarkMath],
     rehypePlugins: [
+      rehypeKatex,
       [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
     ],
   },
