@@ -32,6 +32,7 @@ export default defineConfig({
       head: [
         { tag: 'script', attrs: { type: 'module', src: '/js/lightbox.js' } },
         { tag: 'script', attrs: { src: '/js/catalog-styles.js' } },
+        { tag: 'script', attrs: { src: '/js/timeline-nav.js' } },
       ],
       social: [
         { icon: 'external', label: 'Сайт Vitron', href: 'https://vitron.ru/' },
