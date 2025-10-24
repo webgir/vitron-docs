@@ -642,7 +642,37 @@ border-radius:.75rem;padding:.25rem .75rem .75rem;background:var(--sl-color-bg-s
 
 /* Для светлой темы */
 :root[data-theme="light"] .sidebar details.catalog-block {
-  background: #2d2d30;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border: 1px solid rgba(203, 45, 45, 0.15);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+:root[data-theme="light"] .sidebar details.catalog-block > summary {
+  color: #2c3e50 !important;
+  background: rgba(203, 45, 45, 0.03);
+}
+
+:root[data-theme="light"] .sidebar details.catalog-block a,
+:root[data-theme="light"] .sidebar details.catalog-block details > summary {
+  color: #495057 !important;
+}
+
+:root[data-theme="light"] .sidebar details.catalog-block a:hover,
+:root[data-theme="light"] .sidebar details.catalog-block details > summary:hover {
+  background: rgba(203, 45, 45, 0.08) !important;
+}
+
+:root[data-theme="light"] .sidebar details.catalog-block details > summary {
+  color: #2c3e50 !important;
+}
+
+:root[data-theme="light"] .sidebar details.catalog-block details ul li a {
+  color: #6c757d !important;
+}
+
+:root[data-theme="light"] .sidebar details.catalog-block a[aria-current="page"] {
+  background: var(--sl-color-text-accent) !important;
+  color: #fff !important;
 }
 
 

@@ -10,6 +10,7 @@ import logoLight from './src/assets/vtrn.png?url';
 import logoDark from './src/assets/vtrn.png?url';
 
 export default defineConfig({
+  site: 'https://vitron.ru',
   markdown: {
     remarkPlugins: [remarkMath],
     rehypePlugins: [
@@ -19,7 +20,8 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      title: 'Каталог 2026',
+      title: 'Каталог Vitron 2026',
+      description: 'Полный каталог конвекторов Vitron. Российское производство отопительного оборудования.',
       logo: { light: logoLight, dark: logoDark },
       defaultLocale: 'root',
       locales: {
@@ -33,6 +35,43 @@ export default defineConfig({
         { tag: 'script', attrs: { type: 'module', src: '/js/lightbox.js' } },
         { tag: 'script', attrs: { src: '/js/catalog-styles.js' } },
         { tag: 'script', attrs: { src: '/js/timeline-nav.js' } },
+        {
+          tag: 'script',
+          attrs: { type: 'application/ld+json' },
+          content: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Organization',
+            name: 'Vitron',
+            url: 'https://vitron.ru',
+            logo: 'https://vitron.ru/logo.png',
+            description: 'Российский производитель внутрипольных, напольных и настенных конвекторов',
+            address: {
+              '@type': 'PostalAddress',
+              addressCountry: 'RU',
+              addressLocality: 'Москва'
+            },
+            foundingDate: '2002',
+            sameAs: [
+              'https://vitron.ru/'
+            ]
+          })
+        },
+        {
+          tag: 'meta',
+          attrs: { name: 'keywords', content: 'конвекторы, внутрипольные конвекторы, напольные конвекторы, настенные конвекторы, отопление, vitron, витрон, конвекторы для дома' }
+        },
+        {
+          tag: 'meta',
+          attrs: { property: 'og:type', content: 'website' }
+        },
+        {
+          tag: 'meta',
+          attrs: { property: 'og:site_name', content: 'Vitron' }
+        },
+        {
+          tag: 'meta',
+          attrs: { name: 'twitter:card', content: 'summary_large_image' }
+        }
       ],
       social: [
         { icon: 'external', label: 'Сайт Vitron', href: 'https://vitron.ru/' },

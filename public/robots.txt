@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Запретить индексацию служебных файлов
+Disallow: /js/
+Disallow: /_astro/
+
+# Карта сайта
+Sitemap: https://vitron.ru/sitemap.xml
