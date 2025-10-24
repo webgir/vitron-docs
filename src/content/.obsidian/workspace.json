@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pochemu-my.md",
+                "file": "docs/katalog/vks/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pochemu-my"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/pochemu-my.md",
+                "file": "docs/spetsialnye-ispolneniya/spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для pochemu-my"
+              "title": "Обратные ссылки для spec"
             }
           },
           {
@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Структура pochemu-my"
             }
+          },
+          {
+            "id": "65b13b2e81b1f45d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,12 +177,21 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
   "active": "4f1a1851861d1efe",
   "lastOpenFiles": [
-    "docs/gallery-example.md",
-    "docs/katalog/vk/index.md"
+    "docs/spetsialnye-ispolneniya/spec.md",
+    "docs/katalog/vkve/index.md",
+    "docs/katalog/vkv-vke/index.md",
+    "docs/katalog/vke/index.md",
+    "docs/katalog/vkn/index.md",
+    "docs/katalog/vk/index.md",
+    "docs/pochemu-my.md",
+    "docs/gallery-example.md"
   ]
 }

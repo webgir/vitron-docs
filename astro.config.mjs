@@ -6,8 +6,8 @@ import rehypeKatex from 'rehype-katex';
 import remarkMath from 'remark-math';
 
 // Логотипы
-import logoLight from './src/assets/logo.svg?url';
-import logoDark from './src/assets/logo-dark.svg?url';
+import logoLight from './src/assets/vtrn.png?url';
+import logoDark from './src/assets/vtrn.png?url';
 
 export default defineConfig({
   markdown: {
@@ -26,40 +26,40 @@ export default defineConfig({
         { tag: 'script', attrs: { type: 'module', src: '/js/lightbox.js' } },
       ],
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' },
+        { icon: 'external', label: 'Сайт Vitron', href: 'https://vitron.ru/' },
       ],
       sidebar: [
-        { label: 'Миссия компании', slug: 'missiya-kompanii' },
-        { label: 'О компании', slug: 'o-kompanii' },
+        { label: 'Миссия', slug: 'missiya-kompanii' },
+        { label: 'О нас', slug: 'o-kompanii' },
         { label: 'История', slug: 'istoriya-kompanii' },
         { label: 'Почему мы', slug: 'pochemu-my' },
         {
-          label: 'Каталог продукции',
+          label: 'Каталог',
           items: [
-            { label: 'Конвекторы ВК', slug: 'katalog/vk' },
-            { label: 'Конвекторы ВК ЭКО', slug: 'katalog/vk-eko' },
-            { label: 'Конвекторы ВКВ 24', slug: 'katalog/vkv24' },
-            { label: 'Напольные конвекторы ВКН', slug: 'katalog/vkn' },
-            { label: "Конвекторы напольные ВКВН 24", slug: "katalog/vkvn" },
-            { label: "Конвекторы напольные линейки ЭКО (ВКН ЭКО)", slug: "katalog/vkn-eco" },
-            { label: "Конвекторы напольные электрические (ВКЭН)", slug: "katalog/vken" },
-            { label: "Конвекторы электрические, встраиваемые в пол, с естественной конвекцией (ВКЭ)", slug: "katalog/vke" },
-            { label: "Конвекторы электрические, встраиваемые в пол, с принудительной конвекцией (ВКВЭ)", slug: "katalog/vkve" },
-            { label: "Конвекторы, встраиваемые в пол, с принудительной конвекцией и электрическим ТЭНом (ВКВ+ВКЭ)", slug: "katalog/vkv-vke" },
-            { label: "Конвекторы настенные горизонтальные (ВКС)", slug: "katalog/vks" },
-            { label: "Конвекторы настенные горизонтальные линейки ЭКО (ВКС ЭКО)", slug: "katalog/vks-eco" },
-            { label: "Конвекторы настенные вертикальные (ВКС)", slug: "katalog/vks-vert" },
-            { label: "Конвекторы настенные электрические (ВКВЭС)", slug: "katalog/vkves" },
-            { label: "Конвектор скамья отопительная (ВКСК)", slug: "katalog/vksk" },
-            { label: "Конвекторы, встраиваемые в подоконник (ВКВП)", slug: "katalog/vkvp" },
-            { label: "Конвекторы, встраиваемые в мебель (ВКВМ, ВКВЭМ)", slug: "katalog/vkvm" },
-            { label: "Регулирование тепловой мощности конвекторов", slug: "katalog/regulirovanie" }
+            { label: 'ВК - базовые', slug: 'katalog/vk' },
+            { label: 'ВК ЭКО - эконом', slug: 'katalog/vk-eko' },
+            { label: 'ВКВ 24 - 24 В', slug: 'katalog/vkv24' },
+            { label: 'ВКН - напольные', slug: 'katalog/vkn' },
+            { label: 'ВКВН 24 - напольные', slug: 'katalog/vkvn' },
+            { label: 'ВКН ЭКО - эконом', slug: 'katalog/vkn-eco' },
+            { label: 'ВКЭН - электро', slug: 'katalog/vken' },
+            { label: 'ВКЭ - в пол (ест.)', slug: 'katalog/vke' },
+            { label: 'ВКВЭ - в пол (вент.)', slug: 'katalog/vkve' },
+            { label: 'ВКВ+ВКЭ - комбинир.', slug: 'katalog/vkv-vke' },
+            { label: 'ВКС - настенные', slug: 'katalog/vks' },
+            { label: 'ВКС ЭКО - настенные', slug: 'katalog/vks-eco' },
+            { label: 'ВКС Vert - вертикальные', slug: 'katalog/vks-vert' },
+            { label: 'ВКВЭС - настенные эл.', slug: 'katalog/vkves' },
+            { label: 'ВКСК - скамья', slug: 'katalog/vksk' },
+            { label: 'ВКВП - подоконные', slug: 'katalog/vkvp' },
+            { label: 'ВКВМ - мебельные', slug: 'katalog/vkvm' },
+            { label: 'Регулирование', slug: 'katalog/regulirovanie' }
           ],
         },
         {
-          label: 'Специальные исполнения',
+          label: 'Спецрешения',
           items: [
-            { label: 'Специальные исполнения', slug: 'spetsialnye-ispolneniya/spec' },
+            { label: 'Все спецрешения', slug: 'spetsialnye-ispolneniya/spec' },
           ],
         },
         {
@@ -72,12 +72,13 @@ export default defineConfig({
           label: 'Инструкции',
           items: [
             { label: 'Монтаж', slug: 'instrukcii/montazh' },
+            { label: 'Монтаж ВКС', slug: 'instrukcii/montazh-vks' },
           ],
         },
         {
           label: 'Сертификаты',
           items: [
-            { label: 'Декларации соответствия', slug: 'sertifikaty/deklaratsii' },
+            { label: 'Декларации', slug: 'sertifikaty/deklaratsii' },
           ],
         },
       ],
