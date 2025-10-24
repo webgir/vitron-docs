@@ -6,14 +6,16 @@
     gap: 16px;
     max-width: 900px;
     margin: 2rem auto;
-  font-size: 0; /* РЈР±РёСЂР°РµРј Р°СЂС‚РµС„Р°РєС‚С‹ РїСЂРѕР±РµР»РѕРІ РјРµР¶РґСѓ div */
+  font-size: 0; /* Убираем артефакты пробелов между div */
 }
 
 .gallery__item {
-    aspect-ratio: 1 / 1;
-    width: 100%;
-    overflow: hidden;
-    display: flex;
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  overflow: hidden;
+  display: grid;
+    height: 220px;
+  place-items: center;
 }
 
 .gallery__item > * {
@@ -22,10 +24,13 @@
 }
 
 .gallery__item img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
+  width: 100%;
+  height: 100%;
+    min-height: 0;
+    min-width: 0;
+  object-fit: cover;
+  display: block;
+  vertical-align: top;
 }
 
 .timeline {
@@ -191,7 +196,7 @@
         text-align: left !important;
     }
 }
-/* Р›Р°Р№С‚Р±РѕРєСЃ */
+/* Лайтбокс */
 .lightbox{
   position:fixed; inset:0; display:none;
   justify-content:center; align-items:center;
@@ -202,7 +207,7 @@
   border-radius:6px; box-shadow:0 0 20px rgba(0,0,0,.5);
   cursor:zoom-out;
 }
-/* Р›Р°Р№С‚Р±РѕРєСЃ + СЃС‚СЂРµР»РєРё */
+/* Лайтбокс + стрелки */
 .lightbox {
   position: fixed;
   inset: 0;
@@ -254,7 +259,7 @@
   border-radius: 999px;
   user-select: none;
 }
-/* РћР±С‰РёР№ РІРёРґ С‚Р°Р±Р»РёС† РІ РєРѕРЅС‚РµРЅС‚Рµ */
+/* Общий вид таблиц в контенте */
 .markdown table {
   border-collapse: collapse;
   width: 100%;
@@ -266,23 +271,23 @@
   vertical-align: top;
 }
 
-/* РЁР°РїРєР° С‚Р°Р±Р»РёС†С‹ */
+/* Шапка таблицы */
 .markdown thead th {
   font-weight: 600;
 }
 
-/* Р—РµР±СЂР° РґР»СЏ СЃС‚СЂРѕРє (tbody) */
+/* Зебра для строк (tbody) */
 .markdown tbody tr:nth-child(even) {
   background: rgba(0,0,0,.03);
 }
 
-/* РЎРІРµС‚Р»Р°СЏ/С‚С‘РјРЅР°СЏ С‚РµРјР° вЂ” Р»С‘РіРєР°СЏ РєРѕСЂСЂРµРєС‚РёСЂРѕРІРєР° РєРѕРЅС‚СЂР°СЃС‚Р° */
+/* Светлая/тёмная тема — лёгкая корректировка контраста */
 :root[data-theme="light"] .markdown tbody tr:nth-child(even) { background: rgba(0,0,0,.035); }
 :root[data-theme="dark"]  .markdown tbody tr:nth-child(even) { background: rgba(255,255,255,.03); }
 :root[data-theme="dark"]  .markdown th,
 :root[data-theme="dark"]  .markdown td { border-bottom-color: rgba(255,255,255,.12); }
 
-/* РђРєС†РµРЅС‚С‹: РІСЃС‘, С‡С‚Рѕ РІ **Р¶РёСЂРЅРѕРј**, РїРѕРґСЃРІРµС‚РёС‚СЊ В«РєР°Рє СЃСЃС‹Р»РєРёВ» */
+/* Акценты: всё, что в **жирном**, подсветить «как ссылки» */
 .markdown td strong {
   color: var(--sl-color-text-link);
   font-weight: 700;
@@ -321,21 +326,21 @@ main tbody tr:nth-child(even) {
 border-radius:.75rem;padding:.25rem .75rem .75rem;background:var(--sl-color-bg-soft,#222326)}
 .spoiler>summary{list-style:none;cursor:pointer;font-weight:600;padding:.5rem 0;display:flex;gap:.5rem}
 .spoiler>summary::-webkit-details-marker{display:none}
-.spoiler>summary::before{content:"в–ё";transition:transform .2s ease}
+.spoiler>summary::before{content:"▸";transition:transform .2s ease}
 .spoiler[open]>summary::before{transform:rotate(90deg)}
-/* РЎРєСЂС‹С‚СЊ Р·Р°РіРѕР»РѕРІРѕРє Сѓ Р±Р»РѕРєРѕРІ :::note / :::tip / :::caution / :::info */
+/* Скрыть заголовок у блоков :::note / :::tip / :::caution / :::info */
 :where(.starlight-aside) :where(.starlight-aside-title),
 :where(.starlight-aside) :where(.starlight-aside__title),
 :where(.admonition) :where(.admonition-title) {
   display: none !important;
 }
 
-/* РЈР±РёСЂР°РµРј РІРѕР·РјРѕР¶РЅС‹Р№ В«С…РµРґРµСЂВ» С†РµР»РёРєРѕРј (Сѓ РЅРµРєРѕС‚РѕСЂС‹С… РІРµСЂСЃРёР№) */
+/* Убираем возможный «хедер» целиком (у некоторых версий) */
 :where(.starlight-aside) :where(.starlight-aside__header) {
   display: none !important;
 }
 
-/* Р§СѓС‚СЊ РІС‹СЂР°РІРЅРёРІР°РµРј РѕС‚СЃС‚СѓРїС‹, РµСЃР»Рё СЃРІРµСЂС…Сѓ СЃС‚Р°Р»Рѕ РїСѓСЃС‚Рѕ */
+/* Чуть выравниваем отступы, если сверху стало пусто */
 :where(.starlight-aside) {
   padding-top: var(--sl-spacing-3) !important;
 }
@@ -464,3 +469,119 @@ border-radius:.75rem;padding:.25rem .75rem .75rem;background:var(--sl-color-bg-s
     max-width:180px;
   }
 }
+
+/* Стилизация разделителя в сайдбаре - группы с пустым items[] */
+.sidebar nav li > details[open] > ul:empty + summary,
+.sidebar nav li > details > summary:only-child {
+  background: #2a2a2a;
+  color: #9ca3af;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.5rem 1rem;
+  margin: 1.25rem 0 0.5rem;
+  border-radius: 0.375rem;
+  cursor: default;
+  pointer-events: none;
+}
+
+/* Скрываем стрелку у разделителя */
+.sidebar nav li > details[open] > ul:empty + summary::marker,
+.sidebar nav li > details[open] > ul:empty + summary::-webkit-details-marker,
+.sidebar nav li > details > summary:only-child::marker,
+.sidebar nav li > details > summary:only-child::-webkit-details-marker {
+  display: none;
+}
+
+/* Для светлой темы */
+:root[data-theme="light"] .sidebar nav li > details[open] > ul:empty + summary,
+:root[data-theme="light"] .sidebar nav li > details > summary:only-child {
+  background: #e5e7eb;
+  color: #6b7280;
+}
+
+/* Для тёмной темы */
+:root[data-theme="dark"] .sidebar nav li > details[open] > ul:empty + summary,
+:root[data-theme="dark"] .sidebar nav li > details > summary:only-child {
+  background: #1f2937;
+  color: #9ca3af;
+}
+
+/* Стилизация блока "Каталог" */
+.sidebar details.catalog-block {
+  background: #1a1a1a;
+  border-radius: 12px;
+  padding: 0;
+  margin: 16px 0;
+  border: none !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.sidebar details.catalog-block > summary {
+  background: transparent;
+  color: #fff !important;
+  padding: 14px 16px;
+  font-weight: 600;
+  border-radius: 12px 12px 0 0;
+  border: none !important;
+}
+
+.sidebar details.catalog-block[open] > summary {
+  border-radius: 12px 12px 0 0;
+}
+
+.sidebar details.catalog-block > ul {
+  background: transparent;
+  padding: 8px 12px 14px;
+  margin: 0;
+}
+
+.sidebar details.catalog-block ul li {
+  margin: 4px 0;
+}
+
+.sidebar details.catalog-block a,
+.sidebar details.catalog-block details > summary {
+  color: #e8e8e8 !important;
+  padding: 8px 12px;
+  border-radius: 6px;
+  transition: background 0.2s ease;
+  border: none !important;
+}
+
+.sidebar details.catalog-block a:hover,
+.sidebar details.catalog-block details > summary:hover {
+  background: rgba(255, 255, 255, 0.08) !important;
+}
+
+/* Активная ссылка - делаем текст темным на светлом фоне */
+.sidebar details.catalog-block a[aria-current="page"] {
+  background: var(--sl-color-text-accent) !important;
+  color: #000 !important;
+  font-weight: 600;
+}
+
+.sidebar details.catalog-block details {
+  background: transparent;
+  border: none;
+  margin: 2px 0;
+}
+
+.sidebar details.catalog-block details > summary {
+  color: #fff !important;
+  font-weight: 500;
+}
+
+.sidebar details.catalog-block details ul li a {
+  color: #d0d0d0 !important;
+  font-size: 0.95em;
+  padding: 6px 12px 6px 24px;
+}
+
+/* Для светлой темы */
+:root[data-theme="light"] .sidebar details.catalog-block {
+  background: #2d2d30;
+}
+
+

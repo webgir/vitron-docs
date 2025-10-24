@@ -21,9 +21,17 @@ export default defineConfig({
     starlight({
       title: 'Каталог 2026',
       logo: { light: logoLight, dark: logoDark },
+      defaultLocale: 'root',
+      locales: {
+        root: {
+          label: 'Русский',
+          lang: 'ru',
+        },
+      },
       customCss: ['./src/styles/global.css'],
       head: [
         { tag: 'script', attrs: { type: 'module', src: '/js/lightbox.js' } },
+        { tag: 'script', attrs: { src: '/js/catalog-styles.js' } },
       ],
       social: [
         { icon: 'external', label: 'Сайт Vitron', href: 'https://vitron.ru/' },
@@ -36,24 +44,48 @@ export default defineConfig({
         {
           label: 'Каталог',
           items: [
-            { label: 'ВК - базовые', slug: 'katalog/vk' },
-            { label: 'ВК ЭКО - эконом', slug: 'katalog/vk-eko' },
-            { label: 'ВКВ 24 - 24 В', slug: 'katalog/vkv24' },
-            { label: 'ВКН - напольные', slug: 'katalog/vkn' },
-            { label: 'ВКВН 24 - напольные', slug: 'katalog/vkvn' },
-            { label: 'ВКН ЭКО - эконом', slug: 'katalog/vkn-eco' },
-            { label: 'ВКЭН - электро', slug: 'katalog/vken' },
-            { label: 'ВКЭ - в пол (ест.)', slug: 'katalog/vke' },
-            { label: 'ВКВЭ - в пол (вент.)', slug: 'katalog/vkve' },
-            { label: 'ВКВ+ВКЭ - комбинир.', slug: 'katalog/vkv-vke' },
-            { label: 'ВКС - настенные', slug: 'katalog/vks' },
-            { label: 'ВКС ЭКО - настенные', slug: 'katalog/vks-eco' },
-            { label: 'ВКС Vert - вертикальные', slug: 'katalog/vks-vert' },
-            { label: 'ВКВЭС - настенные эл.', slug: 'katalog/vkves' },
-            { label: 'ВКСК - скамья', slug: 'katalog/vksk' },
-            { label: 'ВКВП - подоконные', slug: 'katalog/vkvp' },
-            { label: 'ВКВМ - мебельные', slug: 'katalog/vkvm' },
-            { label: 'Регулирование', slug: 'katalog/regulirovanie' }
+            {
+              label: 'Внутрипольные',
+              collapsed: false,
+              items: [
+                { label: 'ВК - базовые', slug: 'katalog/vk' },
+                { label: 'ВК ЭКО - эконом', slug: 'katalog/vk-eko' },
+                { label: 'ВКВ 24 - 24 В', slug: 'katalog/vkv24' },
+                { label: 'ВКЭ - в пол (ест.)', slug: 'katalog/vke' },
+                { label: 'ВКВЭ - в пол (вент.)', slug: 'katalog/vkve' },
+                { label: 'ВКВ+ВКЭ - комбинир.', slug: 'katalog/vkv-vke' },
+              ],
+            },
+            {
+              label: 'Напольные',
+              collapsed: false,
+              items: [
+                { label: 'ВКН - напольные', slug: 'katalog/vkn' },
+                { label: 'ВКВН 24 - напольные', slug: 'katalog/vkvn' },
+                { label: 'ВКН ЭКО - эконом', slug: 'katalog/vkn-eco' },
+                { label: 'ВКЭН - электро', slug: 'katalog/vken' },
+              ],
+            },
+            {
+              label: 'Настенные',
+              collapsed: false,
+              items: [
+                { label: 'ВКС - настенные', slug: 'katalog/vks' },
+                { label: 'ВКС ЭКО - настенные', slug: 'katalog/vks-eco' },
+                { label: 'ВКС Vert - вертикальные', slug: 'katalog/vks-vert' },
+                { label: 'ВКВЭС - настенные эл.', slug: 'katalog/vkves' },
+              ],
+            },
+            {
+              label: 'Специальные',
+              collapsed: false,
+              items: [
+                { label: 'ВКСК - скамья', slug: 'katalog/vksk' },
+                { label: 'ВКВП - подоконные', slug: 'katalog/vkvp' },
+                { label: 'ВКВМ - мебельные', slug: 'katalog/vkvm' },
+              ],
+            },
+            { label: 'Регулирование', slug: 'katalog/regulirovanie' },
           ],
         },
         {

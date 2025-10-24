@@ -185,7 +185,11 @@
   },
   "active": "4f1a1851861d1efe",
   "lastOpenFiles": [
+    "docs/guides/catalog-card-example.md",
+    "i18n/ru.json",
+    "i18n",
     "docs/spetsialnye-ispolneniya/spec.md",
+    "docs/katalog/vks/index.md",
     "docs/katalog/vkve/index.md",
     "docs/katalog/vkv-vke/index.md",
     "docs/katalog/vke/index.md",
