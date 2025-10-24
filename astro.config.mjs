@@ -35,6 +35,7 @@ export default defineConfig({
         { tag: 'script', attrs: { type: 'module', src: '/js/lightbox.js' } },
         { tag: 'script', attrs: { src: '/js/catalog-styles.js' } },
         { tag: 'script', attrs: { src: '/js/timeline-nav.js' } },
+        { tag: 'script', attrs: { src: '/js/metrika.js' } },
         {
           tag: 'script',
           attrs: { type: 'application/ld+json' },
