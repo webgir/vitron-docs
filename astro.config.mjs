@@ -113,7 +113,7 @@ export default defineConfig({
               items: [
                 { label: 'ВКС - настенные', slug: 'katalog/vks' },
                 { label: 'ВКС ЭКО - настенные', slug: 'katalog/vks-eco' },
-                { label: 'ВКС Vert - вертикальные', slug: 'katalog/vks-vert' },
+                { label: 'ВКС - вертикальные', slug: 'katalog/vks-vert' },
                 { label: 'ВКВЭС - настенные эл.', slug: 'katalog/vkves' },
               ],
             },

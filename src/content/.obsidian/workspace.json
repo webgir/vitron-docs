@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/instrukcii/montazh-vkn.md",
+                "file": "docs/instrukcii/montazh-vks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "montazh-vkn"
+              "title": "montazh-vks"
             }
           }
         ]
@@ -167,25 +167,29 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "bases:Создать новую базу": false
     }
   },
   "active": "4f1a1851861d1efe",
   "lastOpenFiles": [
+    "docs/katalog/vks-vert/index.md",
     "docs/katalog/vks/index.md",
+    "docs/instrukcii/montazh-vks.md",
+    "docs/katalog/vk/index.md",
+    "docs/katalog/vk-eko/index.md",
     "docs/instrukcii/montazh-vkn.md",
+    "docs/katalog/vkv-vke/index.md",
+    "docs/katalog/vkv24/index.md",
+    "docs/katalog/vkve/index.md",
+    "docs/katalog/vks-eco/index.md",
+    "docs/katalog/vkn-eco/index.md",
+    "docs/katalog/vken/index.md",
+    "docs/katalog/vke/index.md",
     "docs/guides/catalog-card-example.md",
     "i18n/ru.json",
     "i18n",
     "docs/spetsialnye-ispolneniya/spec.md",
-    "docs/katalog/vkve/index.md",
-    "docs/katalog/vkv-vke/index.md",
-    "docs/katalog/vke/index.md",
     "docs/katalog/vkn/index.md",
-    "docs/katalog/vk/index.md",
     "docs/pochemu-my.md",
     "docs/gallery-example.md"
   ]
