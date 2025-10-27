@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/katalog/vks/index.md",
+                "file": "docs/instrukcii/montazh-vkn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "montazh-vkn"
             }
           }
         ]
@@ -150,19 +150,9 @@
               "icon": "lucide-list",
               "title": "Структура pochemu-my"
             }
-          },
-          {
-            "id": "65b13b2e81b1f45d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,11 +175,12 @@
   },
   "active": "4f1a1851861d1efe",
   "lastOpenFiles": [
+    "docs/katalog/vks/index.md",
+    "docs/instrukcii/montazh-vkn.md",
     "docs/guides/catalog-card-example.md",
     "i18n/ru.json",
     "i18n",
     "docs/spetsialnye-ispolneniya/spec.md",
-    "docs/katalog/vks/index.md",
     "docs/katalog/vkve/index.md",
     "docs/katalog/vkv-vke/index.md",
     "docs/katalog/vke/index.md",

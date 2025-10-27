@@ -146,6 +146,7 @@ export default defineConfig({
           items: [
             { label: 'Монтаж', slug: 'instrukcii/montazh' },
             { label: 'Монтаж ВКС', slug: 'instrukcii/montazh-vks' },
+            { label: 'Установка ВКН', slug: 'instrukcii/montazh-vkn' },
           ],
         },
         {
